@@ -9,6 +9,7 @@ I'm a masters student in the [NCSU Online Statistics](https://online-distance.nc
 ## Hobbies
 
 I love to cook. One of the things I like to do is after I try a new and tasty food while on vacation I have to try and recreate it at home. I've learned how to make souffles this way!
+
 ![souffle](images/Choc%20Souffle.jpg)
 
 In my free time I like to play video games and tabletop RPGs.
