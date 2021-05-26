@@ -14,7 +14,7 @@ I love to cook. One of the things I like to do is after I try a new and tasty fo
 
 In my free time I like to play video games and tabletop RPGs.
 
-I have a cat named Nyx. She's just over a year and a half and is a huge handful.
+I have a cat named Nyx. She's just over a year and a half and is a huge handful. She's adorable though, and such a love bug!
 ![Nyx1](images/Nyx.jpg)
 ![Nyx2](images/Derp_Nyx.jpg)
 
