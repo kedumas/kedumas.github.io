@@ -24,6 +24,6 @@ If I were to do this project over from scratch, or if I wanted to find different
 understood the outputs better, that it would be a lot easier to modify and manipulate the data. 
 
 ## Links
-https://kedumas.github.io/ST558-Project-1/
+[Project Pages](https://kedumas.github.io/ST558-Project-1/)
 
-https://github.com/kedumas/ST558-Project-1
+[Project Repo](https://github.com/kedumas/ST558-Project-1)
